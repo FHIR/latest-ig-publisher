@@ -6,7 +6,10 @@ title: FHIR Validator Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Add a warning if a coding has a code but no system
+* Add check for duplicate ids 
+* Validate MeasureReport against it's Measure
+* check that Canonical URLs are absolute 
 
 ## v4.2.12 (2020-03-31)
 

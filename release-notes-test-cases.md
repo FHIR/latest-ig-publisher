@@ -8,8 +8,13 @@ title: FHIR Test Cases Release Notes
 
 (no changes yet)
 
-## v1.1.3 (2020-03-31)
+## v1.1.4 (2020-04-02)
 
+
+* Add test case for bad JSON
+* Add test cases for Measure/MeasureReport validation
+
+## v1.1.3 (2020-03-31)
 
 * Test case for bundle reference validation
 * Test cases for extension context 
@@ -81,4 +86,4 @@ title: FHIR Test Cases Release Notes
 
 ## v1.0.39  (2020-02-02)
 
-* This release notes reco
+* This release notes rec

@@ -6,7 +6,7 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Publisher - change the format of the suppressed messages file - see https://confluence.hl7.org/display/FHIR/Implementation+Guide+Parameters for details
 
 ## v1.0.76 (2020-03-31)
 
