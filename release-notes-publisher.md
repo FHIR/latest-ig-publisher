@@ -6,7 +6,13 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-* Publisher - change the format of the suppressed messages file - see https://confluence.hl7.org/display/FHIR/Implementation+Guide+Parameters for details
+* Validator: Add a warning if a coding has a code but no system
+* Validator: Add check for duplicate ids 
+* Validator: Validate MeasureReport against it's Measure
+* Validator: Check that Canonical URLs are absolute 
+* Publisher: change the format of the suppressed messages file - see https://confluence.hl7.org/display/FHIR/Implementation+Guide+Parameters for details
+* Publisher: support // comments in json source for input resources (will be stripped out when publishing)
+* Publisher: trust UTG template
 
 ## v1.0.76 (2020-03-31)
 
