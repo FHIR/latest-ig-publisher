@@ -6,6 +6,11 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.77 (2020-04-02)
+
+
 * Validator: Add a warning if a coding has a code but no system
 * Validator: Add check for duplicate ids 
 * Validator: Validate MeasureReport against it's Measure
@@ -136,4 +141,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release notes rec
+* This release notes re
