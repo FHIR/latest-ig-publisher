@@ -6,12 +6,18 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.78 (2020-04-06)
+
+
 * SnapShot generator: fix NPE when element mapping is "" (illegal, but still shouldn't cause an NPE)
 * Validator: more work on validating Measure & MeasureReport 
 * Validator: Change validator so root resource id is not in the same space as all other ids
 * Validator: Add type to path statement when validating bundles for easier human understanding
 * Validator: Fix bug determining ssytem for a bound code where there is an exclude
 * Renderer: Improve List Rendering
+* Renderer: Fix link to maturity list (more work required on this link)
 * Add support for automatically inserting binary files (easier to edit - see https://confluence.hl7.org/display/FHIR/Implementation+Guide+Parameters parameter path-binary)
 * Add support for compiling CQL and updating library resources with ELM and dependency information from the CQL
 
@@ -148,4 +154,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release notes re
+* This release notes r
