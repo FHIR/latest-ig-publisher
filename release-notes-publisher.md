@@ -6,7 +6,8 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Validator: more work on validating Measure & MeasureReport 
+* Renderer: Improve List Rendering
 
 ## v1.0.77 (2020-04-02)
 

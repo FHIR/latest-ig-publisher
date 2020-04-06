@@ -6,10 +6,9 @@ title: FHIR Validator Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* More work validating Measure & MeasureReport 
 
 ## v4.2.13 (2020-04-02)
-
 
 * Add a warning if a coding has a code but no system
 * Add check for duplicate ids 

@@ -8,6 +8,14 @@ title: FHIR Test Cases Release Notes
 
 (no changes yet)
 
+## v1.1.5 (2020-04-06)
+
+
+* Re-organise supporting collateral for tests
+* More test cases for Measure/MeasureReport validation
+* Add additional questionnaire test cases
+* More tests around duplicate ids
+
 ## v1.1.4 (2020-04-02)
 
 
@@ -86,4 +94,4 @@ title: FHIR Test Cases Release Notes
 
 ## v1.0.39  (2020-02-02)
 
-* This release notes rec
+* This release notes re
