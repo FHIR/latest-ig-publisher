@@ -6,7 +6,16 @@ title: FHIR Validator Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v4.2.14 (2020-04-06)
+
+
 * More work validating Measure & MeasureReport 
+* fix NPE when element mapping is "" (illegal, but still shouldn't cause an NPE)
+* Add type to path statement when validating bundles for easier human understanding
+* Change validator so root resource id is not in the same space as all other ids
+* Fix bug determining ssytem for a bound code where there is an exclude
 
 ## v4.2.13 (2020-04-02)
 
@@ -96,4 +105,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release notes recor
+* This release notes reco
