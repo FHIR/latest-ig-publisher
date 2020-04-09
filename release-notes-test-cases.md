@@ -8,6 +8,11 @@ title: FHIR Test Cases Release Notes
 
 (no changes yet)
 
+## v1.1.6 (2020-04-09)
+
+
+* Add test case for partial version reference
+
 ## v1.1.5 (2020-04-06)
 
 
@@ -94,4 +99,4 @@ title: FHIR Test Cases Release Notes
 
 ## v1.0.39  (2020-02-02)
 
-* This release notes re
+* This release notes r

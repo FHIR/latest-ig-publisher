@@ -1,10 +1,10 @@
 {
   "test-cases" : {
-    "version" : "v1.1.5-SNAPSHOT",
+    "version" : "v1.1.6-SNAPSHOT",
     "link" : "https://fhir.github.io/latest-ig-publisher/test-cases.zip"
   },
   "validator" : {
-    "version" : "v4.2.14-SNAPSHOT",
+    "version" : "v4.2.15-SNAPSHOT",
     "link" : "https://fhir.github.io/latest-ig-publisher/org.hl7.fhir.validator.jar"
   },
   "publisher" : {

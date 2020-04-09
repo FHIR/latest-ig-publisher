@@ -6,16 +6,17 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Package Manager: fix to handle UTG terminology correctly 
+* Validator: Better error for wrong text in XML instance
+* Publisher: Show line/col number for issues in qa.html
 
 ## v1.0.78 (2020-04-06)
-
 
 * SnapShot generator: fix NPE when element mapping is "" (illegal, but still shouldn't cause an NPE)
 * Validator: more work on validating Measure & MeasureReport 
 * Validator: Change validator so root resource id is not in the same space as all other ids
 * Validator: Add type to path statement when validating bundles for easier human understanding
-* Validator: Fix bug determining ssytem for a bound code where there is an exclude
+* Validator: Fix bug determining system for a bound code where there is an exclude
 * Renderer: Improve List Rendering
 * Renderer: Fix link to maturity list (more work required on this link)
 * Add support for automatically inserting binary files (easier to edit - see https://confluence.hl7.org/display/FHIR/Implementation+Guide+Parameters parameter path-binary)
