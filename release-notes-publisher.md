@@ -6,6 +6,11 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.79 (2020-04-09)
+
+
 * Package Manager: fix to handle UTG terminology correctly 
 * Validator: Better error for wrong text in XML instance
 * Publisher: Show line/col number for issues in qa.html
@@ -155,4 +160,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release notes r
+* This release notes 
