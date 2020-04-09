@@ -8,6 +8,12 @@ title: FHIR Validator Release Notes
 
 (no changes yet)
 
+## v4.2.15 (2020-04-09)
+
+
+* Better error for wrong text in XML instance
+* fix to validate using UTG terminology correctly 
+
 ## v4.2.14 (2020-04-06)
 
 
@@ -105,4 +111,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release notes reco
+* This release notes rec
