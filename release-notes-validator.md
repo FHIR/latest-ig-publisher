@@ -8,6 +8,11 @@ title: FHIR Validator Release Notes
 
 (no changes yet)
 
+## v4.2.16 (2020-04-12)
+
+
+* No changes to validator (all functional changes for the publisher)
+
 ## v4.2.15 (2020-04-09)
 
 
@@ -111,4 +116,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release notes rec
+* This release notes re

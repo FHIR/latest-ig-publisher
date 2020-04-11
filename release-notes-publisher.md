@@ -6,7 +6,10 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Terminology Sub-system: pass too-costly note on when including value sets
+* Renderer: Improve rendering of value set version dependencies
+* Renderer: Add All codes value set to rendering of code system
+* Improved rendering of filtered messages and group messages by type in qa.html
 
 ## v1.0.79 (2020-04-09)
 
