@@ -6,6 +6,11 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.80 (2020-04-12)
+
+
 * Terminology Sub-system: pass too-costly note on when including value sets
 * Renderer: Improve rendering of value set version dependencies
 * Renderer: Add All codes value set to rendering of code system
@@ -164,4 +169,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release notes 
+* This release notes
