@@ -8,9 +8,17 @@ title: FHIR IGPublisher Release Notes
 
 * Package Manager: Fix Accept header when using package server
 * Version Conversion: fix bug converting primitive types with no value (extensions only) between versions
+* Terminology Sub-system: Allow expansions based on code system fragments
 * Terminology Sub-system: fix problem expanding flat code systems
+* Terminology Sub-system: fix version note when multiple versions of the same code system
+* Validator: Better URL validation
 * Validator: Fix using a FHIRPath context in an extension in a Bundle
+* Validator: Add support for R5 extensions validating cross-version extensions
+* Renderer: Add content mode to rendering of CodeSystem
+* CQL Subsystem: Added support for model, code system and value set dependencies
 * Publisher: start introducing US Realm Business rules
+
+
 
 ## v1.0.80 (2020-04-12)
 

@@ -6,8 +6,16 @@ title: FHIR Validator Release Notes
 
 * Package Manager: Fix Accept header when using package server
 * Fix using a FHIRPath context in an extension in a Bundle
+* Add support for R5 extensions validating cross-version extensions
+* Better URL validation
+* Better handling of Bas64 errors
 
 ## Current (not released yet)
+
+(no changes yet)
+
+## v4.2.18 (2020-04-21)
+
 
 * Test profile use of cross version extensions
 
@@ -122,4 +130,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release notes r
+* This release notes 
