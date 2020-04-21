@@ -6,10 +6,13 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Package Manager: Fix Accept header when using package server
+* Version Conversion: fix bug converting primitive types with no value (extensions only) between versions
+* Terminology Sub-system: fix problem expanding flat code systems
+* Validator: Fix using a FHIRPath context in an extension in a Bundle
+* Publisher: start introducing US Realm Business rules
 
 ## v1.0.80 (2020-04-12)
-
 
 * Terminology Sub-system: pass too-costly note on when including value sets
 * Renderer: Improve rendering of value set version dependencies
@@ -18,7 +21,6 @@ title: FHIR IGPublisher Release Notes
 * Improved rendering of filtered messages and group messages by type in qa.html
 
 ## v1.0.79 (2020-04-09)
-
 
 * Package Manager: fix to handle UTG terminology correctly 
 * Validator: Better error for wrong text in XML instance

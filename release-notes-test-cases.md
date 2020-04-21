@@ -8,6 +8,11 @@ title: FHIR Test Cases Release Notes
 
 (no changes yet)
 
+## v1.1.7 (2020-04-21)
+
+
+* add test case for FHIRPath contexts for an extension in a Bundle
+
 ## v1.1.6 (2020-04-09)
 
 
@@ -99,4 +104,4 @@ title: FHIR Test Cases Release Notes
 
 ## v1.0.39  (2020-02-02)
 
-* This release notes r
+* This release notes 
