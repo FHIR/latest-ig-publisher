@@ -6,6 +6,11 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.81 (2020-04-21)
+
+
 * Package Manager: Fix Accept header when using package server
 * Version Conversion: fix bug converting primitive types with no value (extensions only) between versions
 * Terminology Sub-system: Allow expansions based on code system fragments
@@ -179,4 +184,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release notes
+* This release note
