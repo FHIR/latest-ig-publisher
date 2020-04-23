@@ -6,10 +6,10 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Terminology Sub-system: fix problem expanding flat code systems part #2 
+* Terminology Sub-system: fix problem with abstract concepts not appearing in code system expansions
 
 ## v1.0.81 (2020-04-21)
-
 
 * Package Manager: Fix Accept header when using package server
 * Version Conversion: fix bug converting primitive types with no value (extensions only) between versions
@@ -22,8 +22,6 @@ title: FHIR IGPublisher Release Notes
 * Renderer: Add content mode to rendering of CodeSystem
 * CQL Subsystem: Added support for model, code system and value set dependencies
 * Publisher: start introducing US Realm Business rules
-
-
 
 ## v1.0.80 (2020-04-12)
 

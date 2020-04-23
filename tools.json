@@ -4,11 +4,11 @@
     "link" : "https://fhir.github.io/latest-ig-publisher/test-cases.zip"
   },
   "validator" : {
-    "version" : "v4.2.18-SNAPSHOT",
+    "version" : "v4.2.19-SNAPSHOT",
     "link" : "https://fhir.github.io/latest-ig-publisher/org.hl7.fhir.validator.jar"
   },
   "publisher" : {
-    "version" : "v1.0.81-SNAPSHOT",
+    "version" : "v1.0.82-SNAPSHOT",
     "link" : "https://fhir.github.io/latest-ig-publisher/org.hl7.fhir.publisher.jar"
   }
 }

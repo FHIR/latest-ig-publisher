@@ -4,20 +4,27 @@ title: FHIR Validator Release Notes
 
 # FHIR Validator Release Notes
 
+## Current (not released yet)
+
+(no changes yet)
+
+## v4.2.19 (2020-04-23)
+
+
+* Allow validation of codes in code system fragments
+* Fix validation of uri/url types with extensible bindings
+* add the parameter -no-extensible-binding-warnings
+* Suppress errors associated with http://hl7.org/fhir/StructureDefinition/structuredefinition-normative-version in R4
+* fix error processing command line parameters (ArrayIndexOutOfBoundsException)
+* check codeSystem kind when checking all valuesets URL
+
+## v4.2.18 (2020-04-21)
+
 * Package Manager: Fix Accept header when using package server
 * Fix using a FHIRPath context in an extension in a Bundle
 * Add support for R5 extensions validating cross-version extensions
 * Better URL validation
 * Better handling of Bas64 errors
-
-## Current (not released yet)
-
-(no changes yet)
-
-## v4.2.18 (2020-04-21)
-
-
-* Test profile use of cross version extensions
 
 ## v4.2.17 (2020-04-12)
 
@@ -130,4 +137,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release notes 
+* This release notes
