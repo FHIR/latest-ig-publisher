@@ -6,6 +6,11 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.82 (2020-04-23)
+
+
 * Terminology Sub-system: fix problem expanding flat code systems part #2 
 * Terminology Sub-system: fix problem with abstract concepts not appearing in code system expansions
 
@@ -182,4 +187,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release note
+* This release not
