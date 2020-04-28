@@ -6,7 +6,7 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Renderer: change title of ValueSet display from "Definition" to "Logical Definition (CLD)"
 
 ## v1.0.82 (2020-04-23)
 
