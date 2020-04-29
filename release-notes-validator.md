@@ -8,8 +8,13 @@ title: FHIR Validator Release Notes
 
 (no changes yet)
 
-## v4.2.21 (2020-04-29)
+## v4.2.22 (2020-04-29)
 
+
+* Fix problem evaluating "type" discriminators ending with .resolve()
+* Fix link to Publisher in QA report now that publisher has moved
+
+## v4.2.21 (2020-04-29)
 
 * Validator: add icd-9-cm to list of known URIs
 
@@ -146,4 +151,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release not
+* This release no
