@@ -6,6 +6,11 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.85 (2020-04-29)
+
+
 * Validator: Fix problem evaluating "type" discriminators ending with .resolve()
 * Actually fix NPE loading some bundles
 
@@ -197,4 +202,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release no
+* This release n
