@@ -8,8 +8,12 @@ title: FHIR Test Cases Release Notes
 
 (no changes yet)
 
-## v1.1.8 (2020-04-28)
+## v1.1.9 (2020-04-29)
 
+
+* add new test case for ICD-9-CM
+
+## v1.1.8 (2020-04-28)
 
 (no changes yet)
 
@@ -109,4 +113,4 @@ title: FHIR Test Cases Release Notes
 
 ## v1.0.39  (2020-02-02)
 
-* This release notes
+* This release not
