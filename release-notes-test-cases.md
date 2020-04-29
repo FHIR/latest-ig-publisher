@@ -8,6 +8,11 @@ title: FHIR Test Cases Release Notes
 
 (no changes yet)
 
+## v1.1.10 (2020-04-29)
+
+
+* add more tests around questionnaire enableWhen
+
 ## v1.1.9 (2020-04-29)
 
 
@@ -113,4 +118,4 @@ title: FHIR Test Cases Release Notes
 
 ## v1.0.39  (2020-02-02)
 
-* This release not
+* This release no
