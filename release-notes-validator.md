@@ -8,8 +8,12 @@ title: FHIR Validator Release Notes
 
 (no changes yet)
 
-## v4.2.20 (2020-04-28)
+## v4.2.21 (2020-04-29)
 
+
+* Validator: add icd-9-cm to list of known URIs
+
+## v4.2.20 (2020-04-28)
 
 (no changes yet)
 
@@ -142,4 +146,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release note
+* This release not
