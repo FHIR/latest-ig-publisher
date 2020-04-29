@@ -6,9 +6,16 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
+(no changes yet)
+
+## v1.0.84 (2020-04-29)
+
+
 * Validator: add icd-9-cm to list of known URIs
 * Renderer: Generate Narrative correctly for ContactDetails
 * Renderer: change title of ValueSet display from "Definition" to "Logical Definition (CLD)"
+* Fix NPE loading some bundles
+* Add support for a history view on resources
 
 ## v1.0.82 (2020-04-23)
 
@@ -189,4 +196,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release not
+* This release no
