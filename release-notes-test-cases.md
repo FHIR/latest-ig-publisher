@@ -8,8 +8,13 @@ title: FHIR Test Cases Release Notes
 
 (no changes yet)
 
-## v1.1.10 (2020-04-29)
+## v1.1.11 (2020-05-02)
 
+
+* Add test cases for profile slicing by type as an example
+* Add FHIRPath test cases for invalid use of and
+
+## v1.1.10 (2020-04-29)
 
 * add more tests around questionnaire enableWhen
 
@@ -118,4 +123,4 @@ title: FHIR Test Cases Release Notes
 
 ## v1.0.39  (2020-02-02)
 
-* This release no
+* This release n
