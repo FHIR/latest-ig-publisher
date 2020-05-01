@@ -8,6 +8,11 @@ title: FHIR Validator Release Notes
 
 (no changes yet)
 
+## v4.2.23 (2020-05-01)
+
+
+* Add better provenance support for Publisher 
+
 ## v4.2.22 (2020-04-29)
 
 
@@ -151,4 +156,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release no
+* This release n

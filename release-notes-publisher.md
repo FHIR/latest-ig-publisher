@@ -6,7 +6,9 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Change history approach to use Provenance
+* Fix JAXB dependencies
+
 
 ## v1.0.85 (2020-04-29)
 
