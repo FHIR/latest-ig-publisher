@@ -8,6 +8,11 @@ title: FHIR IGPublisher Release Notes
 
 (no changes yet)
 
+## v1.0.87 (2020-05-02)
+
+
+(no changes yet)
+
 ## v1.0.86 (2020-05-01)
 
 
@@ -209,4 +214,4 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.61 (2020-02-02)
 
-* This release 
+* This release
