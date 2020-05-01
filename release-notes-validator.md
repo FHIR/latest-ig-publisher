@@ -8,8 +8,12 @@ title: FHIR Validator Release Notes
 
 (no changes yet)
 
-## v4.2.23 (2020-05-01)
+## v4.2.24 (2020-05-02)
 
+
+* Update ConceptMap relationship terminology for main build support
+
+## v4.2.23 (2020-05-01)
 
 * Add better provenance support for Publisher 
 
@@ -156,4 +160,4 @@ title: FHIR Validator Release Notes
 
 ## v4.1.60 (2020-02-02)
 
-* This release n
+* This release 
