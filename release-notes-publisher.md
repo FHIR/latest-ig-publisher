@@ -10,8 +10,8 @@ title: FHIR IGPublisher Release Notes
 
 ## v1.0.87 (2020-05-02)
 
-
-(no changes yet)
+* Fix issue with CQL dependencies
+* Fix for missing actors in history after first row
 
 ## v1.0.86 (2020-05-01)
 
