@@ -6,7 +6,7 @@ title: FHIR IGPublisher Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Bump version for new preview release of R5
 
 ## v1.0.87 (2020-05-02)
 

@@ -6,7 +6,7 @@ title: FHIR Validator Release Notes
 
 ## Current (not released yet)
 
-(no changes yet)
+* Bump version for new preview release of R5
 
 ## v4.2.24 (2020-05-02)
 

@@ -1,10 +1,10 @@
 {
   "test-cases" : {
-    "version" : "v1.1.11-SNAPSHOT",
+    "version" : "v1.1.12-SNAPSHOT",
     "link" : "https://storage.googleapis.com/ig-build/test-cases.zip"
   },
   "validator" : {
-    "version" : "v4.2.24-SNAPSHOT",
+    "version" : "v4.2.25-SNAPSHOT",
     "link" : "https://storage.googleapis.com/ig-build/org.hl7.fhir.validator.jar"
   },
   "publisher" : {
