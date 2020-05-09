@@ -8,7 +8,7 @@
     "link" : "https://storage.googleapis.com/ig-build/org.hl7.fhir.validator.jar"
   },
   "publisher" : {
-    "version" : "v1.0.90-SNAPSHOT",
+    "version" : "v1.0.91-SNAPSHOT",
     "link" : "https://storage.googleapis.com/ig-build/org.hl7.fhir.publisher.jar"
   }
 }
