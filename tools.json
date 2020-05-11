@@ -1,6 +1,6 @@
 {
   "test-cases" : {
-    "version" : "v1.1.13-SNAPSHOT",
+    "version" : "v1.1.14-SNAPSHOT",
     "link" : "https://storage.googleapis.com/ig-build/test-cases.zip"
   },
   "validator" : {
