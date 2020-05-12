@@ -4,11 +4,11 @@
     "link" : "https://storage.googleapis.com/ig-build/test-cases.zip"
   },
   "validator" : {
-    "version" : "v4.2.29-SNAPSHOT",
+    "version" : "v4.2.30-SNAPSHOT",
     "link" : "https://storage.googleapis.com/ig-build/org.hl7.fhir.validator.jar"
   },
   "publisher" : {
-    "version" : "v1.0.93-SNAPSHOT",
+    "version" : "v1.0.94-SNAPSHOT",
     "link" : "https://storage.googleapis.com/ig-build/org.hl7.fhir.publisher.jar"
   }
 }
