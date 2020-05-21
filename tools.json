@@ -4,7 +4,7 @@
     "link" : "https://storage.googleapis.com/ig-build/test-cases.zip"
   },
   "validator" : {
-    "version" : "v4.2.30-SNAPSHOT",
+    "version" : "v5.0.2-SNAPSHOT",
     "link" : "https://storage.googleapis.com/ig-build/org.hl7.fhir.validator.jar"
   },
   "publisher" : {
